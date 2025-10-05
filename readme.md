@@ -3,7 +3,6 @@ It’s formatted properly in Markdown, includes **setup, environment, API endpoi
 
 ---
 
-```markdown
 # 🏪 Satya Store Backend — API Documentation & Developer Guide
 
 A Node.js + Express + MongoDB backend for managing **Stores, Products, Orders, and Salespersons**.  
@@ -25,7 +24,6 @@ Includes Swagger UI, JWT authentication, Excel import, and best practices for sc
 
 ## 📁 Folder Structure
 
-```
 
 src/
 ├── config/              # Database, Logger, Environment setup
