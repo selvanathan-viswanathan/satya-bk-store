@@ -1,6 +1,3 @@
-Got it ✅ — here’s your **complete `README.md` file**, ready to drop directly into your backend project.
-It’s formatted properly in Markdown, includes **setup, environment, API endpoints, filtering, pagination, and examples**, all in one single document.
-
 ---
 
 # 🏪 Satya Store Backend — API Documentation & Developer Guide
