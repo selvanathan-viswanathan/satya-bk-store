@@ -24,7 +24,7 @@ Includes Swagger UI, JWT authentication, Excel import, and best practices for sc
 
 ## 📁 Folder Structure
 
-
+```
 src/
 ├── config/              # Database, Logger, Environment setup
 ├── controllers/         # Core business logic
@@ -34,7 +34,7 @@ src/
 ├── utils/               # Helpers & utilities
 └── server.js            # App entry point
 
-````
+```
 
 ---
 
